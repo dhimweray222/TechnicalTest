@@ -1,0 +1,24 @@
+
+{
+  "development": {
+    "username": "root",
+    "password": "dimasslalu123",
+    "database": "technicalTest_development",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "dimasslalu123",
+    "database": "technicalTest_test",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "dimasslalu123",
+    "database": "technicalTest_production",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
